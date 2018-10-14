@@ -1,3 +1,6 @@
+# UNMAINTAINED!
+## This project has evolved into [`git-http-mock-server`](https://ghub.io/git-http-mock-server) so that all these cool features can be used with any test framework not just Karma.
+
 # karma-git-http-server-middleware 
 
 A karma middleware for '[git-http-backend](https://github.com/substack/git-http-backend)',
